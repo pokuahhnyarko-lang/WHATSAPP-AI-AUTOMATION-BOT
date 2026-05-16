@@ -1,1 +1,1 @@
-# WHATSAPP-AI-AUTOMATION-BOT
+# WhatsApp Automation Bot for authorized penetration testing
